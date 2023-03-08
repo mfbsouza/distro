@@ -8,4 +8,9 @@ inherit packagegroup
 RDEPENDS:${PN} = " \
     vim \
     tmux \
+    curl \
+    wget \
+    sed \
+    gawk \
+    rsync \
 "
